@@ -18,9 +18,7 @@ let data = {};
 // MAKING LOCAL API FECTH
 fetch("./js/data.json")
   .then((response) => response.json())
-  .then((jsonData) => {
-    console.log(jsonData);
-  });
+  .then((jsonData) => console.log(jsonData));
 
 //--------Functions
 

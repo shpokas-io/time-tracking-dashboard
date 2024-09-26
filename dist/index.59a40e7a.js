@@ -597,9 +597,7 @@ menu.forEach((element)=>{
 //2. GET JSON DATA & CREATE CARDS
 let data = {};
 // MAKING LOCAL API FECTH
-fetch("./js/data.json").then((response)=>response.json()).then((jsonData)=>{
-    console.log(jsonData);
-});
+fetch("./js/data.json").then((response)=>response.json()).then((jsonData)=>console.log(jsonData));
 //--------Functions
 function menuOnClick(event) {
     // console.log("click", event.target.innerText.toLowerCase());

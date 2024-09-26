@@ -81,8 +81,6 @@ body {
 }
 
 .regular-card {
-  background-color: #ff8c66;
-  background-image: url("icon-work.e1b1a15f.svg");
   background-position: 92% -1rem;
   background-repeat: no-repeat;
   border-radius: 1.6rem;
@@ -144,5 +142,15 @@ body {
 .regular-card .property-card .row-2 .description {
   color: #bdc1ff;
   font-size: 1.5rem;
+}
+
+.work {
+  background-color: #ff8c66;
+  background-image: url("icon-work.e1b1a15f.svg");
+}
+
+.play {
+  background-color: #ff8c66;
+  background-image: url("icon-play.506c7a6b.svg");
 }
 /*# sourceMappingURL=index.4a508c1d.css.map */

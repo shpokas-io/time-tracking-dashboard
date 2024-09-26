@@ -78,10 +78,8 @@ body {
 
 .regular-card {
   // border: 1px solid red;
-  background-color: $work;
   width: 100%;
   border-radius: 1.6rem;
-  background-image: url(./images/icon-work.svg);
   background-repeat: no-repeat;
   background-position: 92% -1rem;
 
@@ -141,4 +139,13 @@ body {
       }
     }
   }
+}
+
+.work {
+  background-color: $work;
+  background-image: url(./images/icon-work.svg);
+}
+.play {
+  background-color: $work;
+  background-image: url(./images/icon-play.svg);
 }

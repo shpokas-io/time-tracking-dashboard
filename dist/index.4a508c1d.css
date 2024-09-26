@@ -25,6 +25,7 @@ body {
 .menu-card {
   background-color: #1c1f4a;
   border-radius: 1.6rem;
+  width: 100%;
 }
 
 .menu-card .card-report {
@@ -100,6 +101,10 @@ body {
   display: flex;
 }
 
+.regular-card .property-card:hover {
+  background-color: #33387a;
+}
+
 .regular-card .property-card .row {
   justify-content: space-between;
   align-items: center;
@@ -117,6 +122,10 @@ body {
   justify-content: center;
   align-items: center;
   display: flex;
+}
+
+.regular-card .property-card .row .points:hover .point {
+  background-color: #fff;
 }
 
 .regular-card .property-card .row .points .point {

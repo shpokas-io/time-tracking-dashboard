@@ -595,6 +595,11 @@ menu.forEach((element)=>{
     element.addEventListener("click", menuOnClick);
 });
 //2. GET JSON DATA & CREATE CARDS
+let data = {};
+// MAKING LOCAL API FECTH
+fetch("./js/data.json").then((response)=>response.json()).then((jsonData)=>{
+    console.log(jsonData);
+});
 //--------Functions
 function menuOnClick(event) {
     // console.log("click", event.target.innerText.toLowerCase());

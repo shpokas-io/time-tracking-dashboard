@@ -9,13 +9,14 @@ html {
 }
 
 body {
+  background-color: #0f1424;
   font-family: Rubik, system-ui;
 }
 
 .container {
   flex-direction: column;
   align-items: center;
-  gap: 2rem;
+  gap: 2.2rem;
   width: 88%;
   margin: 2rem auto;
   display: flex;
@@ -150,7 +151,27 @@ body {
 }
 
 .play {
-  background-color: #ff8c66;
+  background-color: #56c2e6;
   background-image: url("icon-play.506c7a6b.svg");
+}
+
+.study {
+  background-color: #ff5c7c;
+  background-image: url("icon-study.791bacc8.svg");
+}
+
+.exercise {
+  background-color: #4acf81;
+  background-image: url("icon-exercise.8151c082.svg");
+}
+
+.social {
+  background-color: #7536d3;
+  background-image: url("icon-social.32bc7c0a.svg");
+}
+
+.self-care {
+  background-color: #f1c65b;
+  background-image: url("icon-self-care.c25cfdb9.svg");
 }
 /*# sourceMappingURL=index.4a508c1d.css.map */

@@ -1,15 +1,16 @@
 body {
-  // background-color: $very-dark-blue;
+  background-color: $very-dark-blue;
 }
 
 .container {
-  // background-color: red;
   width: 88%;
   margin: 2rem auto;
+
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 2rem;
+
+  gap: 2.2rem;
 }
 
 .menu-card {
@@ -77,7 +78,6 @@ body {
 }
 
 .regular-card {
-  // border: 1px solid red;
   width: 100%;
   border-radius: 1.6rem;
   background-repeat: no-repeat;
@@ -146,6 +146,26 @@ body {
   background-image: url(./images/icon-work.svg);
 }
 .play {
-  background-color: $work;
+  background-color: $play;
   background-image: url(./images/icon-play.svg);
+}
+.study {
+  background-color: $study;
+  background-image: url(./images/icon-study.svg);
+}
+.exercise {
+  background-color: $exercise;
+  background-image: url(./images/icon-exercise.svg);
+}
+.exercise {
+  background-color: $exercise;
+  background-image: url(./images/icon-exercise.svg);
+}
+.social {
+  background-color: $social;
+  background-image: url(./images/icon-social.svg);
+}
+.self-care {
+  background-color: $self-care;
+  background-image: url(./images/icon-self-care.svg);
 }

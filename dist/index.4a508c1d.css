@@ -9,7 +9,69 @@ html {
 }
 
 body {
-  background-color: #0f1424;
   font-family: Rubik, system-ui;
+}
+
+.container {
+  width: 88%;
+  margin: 2rem auto;
+}
+
+.menu-card {
+  background-color: #1c1f4a;
+  border-radius: 1.6rem;
+}
+
+.menu-card .card-report {
+  background-color: #5847eb;
+  border-radius: 1.6rem;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 1.8rem;
+  padding: 3rem;
+  display: flex;
+}
+
+.menu-card .card-report img {
+  border: 3px solid #fff;
+  border-radius: 50%;
+  width: 26%;
+}
+
+.menu-card .card-report .report {
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: .4rem;
+  display: flex;
+}
+
+.menu-card .card-report .report p {
+  color: #bdc1ff;
+  font-size: 1.5rem;
+}
+
+.menu-card .card-report .report .name {
+  color: #fff;
+  font-size: 2.35rem;
+  font-weight: 300;
+}
+
+.menu-card .menu {
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 2.5rem;
+  display: flex;
+}
+
+.menu-card .menu .menu-link {
+  color: #6f76c8;
+  font-size: 1.8rem;
+}
+
+.menu-card .menu .menu-active {
+  color: #fff;
 }
 /*# sourceMappingURL=index.4a508c1d.css.map */

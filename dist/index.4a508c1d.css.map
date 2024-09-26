@@ -1,1 +1,1 @@
-{"mappings":"AAAA;;;;;;AAMA;;;;AAIA","sources":["src/styles/_general.scss"],"sourcesContent":[null],"names":[],"version":3,"file":"index.4a508c1d.css.map","sourceRoot":"/__parcel_source_root/"}
+{"mappings":"AAAA;;;;;;AAMA;;;;AAIA;;;;ACNA;;;;;AAMA;;;;;AAIE;;;;;;;;;;;AAWE;;;;;;AAMA;;;;;;;;AAOE;;;;;AAKA;;;;;;AAQJ;;;;;;;;AAME;;;;;AAKA","sources":["src/styles/_general.scss","src/styles/_main.scss"],"sourcesContent":[null,null],"names":[],"version":3,"file":"index.4a508c1d.css.map","sourceRoot":"/__parcel_source_root/"}

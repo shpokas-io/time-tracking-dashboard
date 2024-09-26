@@ -1,3 +1,67 @@
 body {
-  background-color: $very-dark-blue;
+  // background-color: $very-dark-blue;
+}
+
+.container {
+  // background-color: red;
+  width: 88%;
+  margin: 2rem auto;
+}
+
+.menu-card {
+  background-color: $dark-blue;
+  border-radius: 1.6rem;
+
+  .card-report {
+    background-color: $blue;
+    border-radius: 1.6rem;
+    padding: 3rem;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1.8rem;
+
+    img {
+      width: 26%;
+      border: 3px solid white;
+      border-radius: 50%;
+    }
+
+    .report {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      justify-content: center;
+      gap: 0.4rem;
+
+      p {
+        color: $pale-blue;
+        font-size: 1.5rem;
+      }
+
+      .name {
+        color: white;
+        font-size: 2.35rem;
+        font-weight: 300;
+      }
+    }
+  }
+
+  .menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 2.5rem;
+    .menu-link {
+      color: $desaturated-blue;
+      font-size: 1.8rem;
+    }
+
+    .menu-active {
+      color: white;
+    }
+  }
 }

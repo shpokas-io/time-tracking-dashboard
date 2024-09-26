@@ -43,6 +43,7 @@ body {
   border: 3px solid #fff;
   border-radius: 50%;
   width: 26%;
+  max-width: 130px;
 }
 
 .menu-card .card-report .report {
@@ -182,5 +183,29 @@ body {
 .self-care {
   background-color: #f1c65b;
   background-image: url("icon-self-care.c25cfdb9.svg");
+}
+
+@media screen and (width >= 570px) {
+  .container {
+    grid-template-columns: 48% 48%;
+    display: grid;
+  }
+
+  .menu-card {
+    grid-column: 1 / span 2;
+  }
+
+  .menu-card .card-report {
+    gap: 3rem;
+  }
+
+  .work-card .property-card .row-2 {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .work-card .property-card .row-2 .hours {
+    font-size: 3rem;
+  }
 }
 /*# sourceMappingURL=index.4a508c1d.css.map */

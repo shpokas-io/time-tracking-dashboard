@@ -1,4 +1,4 @@
-6003
+6004
 113/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/data.json1709394364000000000 0
 128/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/design/mobile-design.jpg1709394364000000000 0
 110/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/design1709394364000000000 1
@@ -568,9 +568,7 @@
 170/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/css-select/lib/esm/pseudo-selectors/subselects.js.map1727339623484048343 0
 165/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/css-select/lib/esm/pseudo-selectors/aliases.d.ts1727339623489047345 0
 168/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/css-select/lib/esm/pseudo-selectors/subselects.d.ts1727339623510043153 0
-156/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/css-tree/cjs/syntax/node/Identifier.cjs1727339623527039760 0
-186/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/removeXMLProcInst.js1727339626444509495 0
-193/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/removeElementsByAttr.js1727339626450508508 0
+167/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/css-select/lib/esm/pseudo-selectors/index.d.ts.map1727339623461052934 0
 185/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/convertTransform.js1727339626389518542 0
 147/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/svgo/plugins/preset-default.js1727339623650015208 0
 188/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/removeEditorsNSData.js1727339626428512127 0
@@ -1846,7 +1844,7 @@
 164/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/rtcpeerconnection.js1727339623874970295 0
 131/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/type-fest/ts411727339624221903779 1
 163/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/css-color-adjust.js1727339623726000037 0
-134/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/image-jeremy.d305a920.png1727348290463654157 0
+134/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/image-jeremy.d305a920.png1727348953620218408 0
 151/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/core-linux-x64-musl/README.md1727339623773990456 0
 164/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/css-width-stretch.js1727339623782988660 0
 166/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/src/_check_private_redeclaration.mjs1727339624360877766 0
@@ -1893,8 +1891,6 @@
 174/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/node-gyp-build-optional-packages/node_modules/detect-libc1727339626101565915 1
 174/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/htmlnano/docs/versioned_docs/version-1.1.1/040-presets.md1727339623545036167 0
 161/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/variable-fonts.js1727339623928959516 0
-179/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/_/_class_static_private_field_update/package.json1727339624194908832 0
-159/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/font-kerning.js1727339623802984667 0
 165/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/esm/_possible_constructor_return.js1727339624343880948 0
 165/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/src/_class_apply_descriptor_set.mjs1727339624361877579 0
 189/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/_/_class_check_private_static_field_descriptor/package.json1727339624186910329 0
@@ -2072,6 +2068,7 @@
 172/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/_/_class_private_field_update/package.json1727339624193909019 0
 146/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/esm/_inherits.js1727339624340881509 0
 141/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/htmlnano/lib/helpers.cjs1727339623217101639 0
+143/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features1727339623941956922 1
 176/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/lmdb/dependencies/lz4/lib/dll/example/fullbench-dll.vcxproj1727339623688007622 0
 161/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/workers/lib/threads/ThreadsWorker.js1727339624505850631 0
 159/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/font-loading.js1727339623802984667 0
@@ -2099,7 +2096,6 @@
 168/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_copy.11727339623447055729 0
 134/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/csso/dist/csso.js1727339623836977881 0
 140/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/css-select/lib/types.js1727339623385068104 0
-160/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/lmdb/node_modules/node-addon-api/LICENSE.md1727339626164555552 0
 165/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/lmdb/node_modules/node-addon-api/tools/README.md1727339626165555387 0
 131/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/css-select/lib1727339623512042754 1
 148/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/regions/DE.js1727339623788987462 0
@@ -2129,7 +2125,7 @@
 162/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/esm/_async_generator_delegate.js1727339624328883755 0
 195/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/node/Combinator.js1727339626409515252 0
 169/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/csso/node_modules/css-tree/cjs/lexer/match-graph.cjs1727339625994583591 0
-136/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/icon-self-care.c25cfdb9.svg1727348290476654360 0
+136/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/icon-self-care.c25cfdb9.svg1727348953650218816 0
 149/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/_/_array_with_holes1727339624174912575 1
 165/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/csso/node_modules/css-tree/cjs/syntax/create.cjs1727339625791619207 0
 174/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/_/_define_enumerable_properties/package.json1727339624203907147 0
@@ -2216,9 +2212,6 @@
 140/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/types/package.json1727339623742996644 0
 153/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/lmdb/dependencies/lz4/lib/lz4frame.c1727339623486047944 0
 148/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/regions/CF.js1727339623704004429 0
-148/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/regions/TL.js1727339623890967101 0
-140/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/chokidar/index.d.ts.map1727339853002309929 0
-140/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/mdn-data/css/units.json1727339623461052934 0
 167/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/internationalization.js1727339623814982272 0
 167/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/core/test/fixtures/custom-format-infer-ext1727339625991584118 1
 146/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/mdn-data/api/inheritance.json1727339623326079881 0
@@ -2259,7 +2252,7 @@
 141/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/htmlparser2/lib/index.js1727339623262092656 0
 163/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/addeventlistener.js1727339623598025588 0
 165/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/orientation-sensor.js1727339623853974487 0
-119/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/index.html1727348290481654438 0
+119/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/index.html1727348953644218735 0
 159/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/lmdb/dependencies/lz4/lib/liblz4-dll.rc.in1727339623645016206 0
 128/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/js-yaml/bin1727339623459053333 1
 167/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/_/_await_async_generator/package.json1727339624176912200 0
@@ -2350,10 +2343,10 @@
 173/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/LICENSE1727339623346075889 0
 148/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/regions/GU.js1727339623807983669 0
 150/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/source-map-js/lib/mapping-list.js1727339623180109024 0
-153/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/time-tracking-dashboard-main.59712999.js.map1727348290482654454 0
+153/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/time-tracking-dashboard-main.59712999.js.map1727348953629218530 0
 195/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/optimizer-svgo/node_modules/css-select/lib/pseudo-selectors/aliases.js1727339626175553743 0
 178/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/prefixIds.js1727339626420513443 0
-108/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist1727348290486654517 1
+108/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist1727348953650218816 1
 167/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/css-text-orientation.js1727339623777989658 0
 146/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/nullthrows/nullthrows.js.flow1727339624610830981 0
 151/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/heif.js1727339623807983669 0
@@ -2365,10 +2358,12 @@
 160/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/input-pattern.js1727339623813982471 0
 142/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/core/src/utils.js1727339625958589907 0
 166/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/src/_is_native_reflect_construct.mjs1727339624381873836 0
+160/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/lmdb/node_modules/node-addon-api/LICENSE.md1727339626164555552 0
 148/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/src/_using_ctx.mjs1727339624396871029 0
 139/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/mdn-data/css/readme.md1727339623463052535 0
 156/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/csso/node_modules/mdn-data/api/index.js1727339625834611663 0
 177/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/optimizer-svgo/node_modules/svgo/lib/svgo/plugins.js1727339626419513607 0
+129/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/src/styles/_media570.scss1727349113951384731 0
 134/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/type-fest/license1727339624102926049 0
 155/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/src/_write_only_error.mjs1727339624399870468 0
 147/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/lmdb/bin/download-prebuilds.js1727339623649015407 0
@@ -2385,7 +2380,7 @@
 160/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/console-basic.js1727339623713002632 0
 162/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/runtime-js/src/helpers/.eslintrc.json1727339625023753953 0
 148/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/regions/NO.js1727339623843976483 0
-135/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/icon-exercise.8151c082.svg1727348290474654329 0
+135/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/icon-exercise.8151c082.svg1727348953644218735 0
 162/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/optimizer-image/lib/ImageOptimizer.js1727339625253713599 0
 170/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/cjs/_class_static_private_method_get.cjs1727339624288891241 0
 176/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_copy.c1727339623496045948 0
@@ -2432,7 +2427,7 @@
 166/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/core/test/fixtures/invalid-source-missing1727339626001582364 1
 138/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/detect-libc/README.md1727339623962952730 0
 152/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/video.js1727339623932958718 0
-131/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/icon-play.506c7a6b.svg1727348290469654251 0
+131/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/icon-play.506c7a6b.svg1727348953644218735 0
 165/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/packager-wasm/src/wasm-sourcemap.js.flow1727339625024753777 0
 161/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/css-dir-pseudo.js1727339623738997442 0
 135/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/msgpackr/pack.d.ts1727339625693636401 0
@@ -2466,18 +2461,21 @@
 130/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/dotenv-expand1727339624459859240 1
 155/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/htmlnano/docs/docs/010-introduction.md1727339623534038362 0
 144/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/js-yaml/dist/js-yaml.min.js1727339623860973090 0
-114/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/src/styles1727341933977416765 1
+114/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/src/styles1727348817459348722 1
 150/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/packager-css/package.json1727339625125736057 0
+148/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/regions/TL.js1727339623890967101 0
+140/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/chokidar/index.d.ts.map1727339853002309929 0
+140/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/mdn-data/css/units.json1727339623461052934 0
 132/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/detect-libc/lib1727339623963952530 1
 137/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/types/README.md1727339623729999239 0
 116/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules1727339982056706418 1
-132/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/icon-study.791bacc8.svg1727348290476654360 0
+132/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/icon-study.791bacc8.svg1727348953650218816 0
 158/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/css3-colors.js1727339623783988460 0
 145/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/esm/_dispose.js1727339624338881884 0
 181/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/_/_create_for_of_iterator_helper_loose/package.json1727339624196908457 0
 150/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/wav.js1727339623937957720 0
 144/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/semver/internal/lrucache.js1727339624306887872 0
-133/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/icon-social.32bc7c0a.svg1727348290469654251 0
+133/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/icon-social.32bc7c0a.svg1727348953644218735 0
 195/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/optimizer-svgo/node_modules/css-select/lib/pseudo-selectors/index.d.ts1727339626183552427 0
 138/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/braces/lib/compile.js1727339623324080281 0
 174/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/cjs/_class_static_private_field_spec_get.cjs1727339624281892550 0
@@ -2505,6 +2503,9 @@
 154/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/abortcontroller-polyfill/src/utils.js1727339624556841087 0
 148/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/regions/SO.js1727339623881968898 0
 148/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/regions/PY.js1727339623869971293 0
+161/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/esm/_iterable_to_array_limit.js1727339624341881322 0
+187/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/Atrule.js1727339626256540419 0
+160/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/css-animation.js1727339623718001634 0
 145/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/postcss-value-parser/LICENSE1727339623902964706 0
 146/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/esm/_decorate.js1727339624337882071 0
 126/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/immutable1727339853004310091 1
@@ -2514,9 +2515,6 @@
 151/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/avif.js1727339623651015008 0
 150/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/mdn-data/css/at-rules.schema.json1727339623209103236 0
 137/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/lmdb/dependencies/v81727339623640017204 1
-160/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/css-animation.js1727339623718001634 0
-161/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/esm/_iterable_to_array_limit.js1727339624341881322 0
-187/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/Atrule.js1727339626256540419 0
 161/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/css-first-line.js1727339623743996444 0
 144/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/sass/types/value/index.d.ts1727339853038312851 0
 150/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/aac.js1727339623593026585 0
@@ -2543,7 +2541,7 @@
 148/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/regions/IQ.js1727339623815982072 0
 182/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/optimizer-svgo/node_modules/mdn-data/api/inheritance.json1727339626290534826 0
 162/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/reporter-dev-server/src/types.js.flow1727339625449679211 0
-125/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/src/styles/_main.scss1727348567998820966 0
+125/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/src/styles/_main.scss1727349174681197430 0
 167/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/esm/_unsupported_iterable_to_array.js1727339624350879638 0
 186/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/lib/restructure/utils.js1727339626441509988 0
 163/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/css-font-palette.js1727339623747995646 0
@@ -2559,7 +2557,7 @@
 149/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/regenerator-runtime/package.json1727339623897965704 0
 155/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/esm/_apply_decs_2203_r.js1727339624324884504 0
 134/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/lmdb/util/when.js1727339623662012812 0
-119/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/src/styles.scss1727348263561231066 0
+119/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/src/styles.scss1727348839583654749 0
 168/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/htmlnano/lib/modules/deduplicateAttributeValues.mjs1727339623565032174 0
 144/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/weak-lru-cache/package.json1727339623400065110 0
 157/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/source-map/dist/wasm-bindings.js1727339624683817320 0
@@ -2599,7 +2597,7 @@
 155/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/cjs/_class_call_check.cjs1727339624270894609 0
 189/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/convertTransform.js1727339626419513607 0
 146/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/msgpackr-extract/node_modules1727339649150540411 1
-131/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/index.4a508c1d.css.map1727348290486654517 0
+131/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/index.4a508c1d.css.map1727348953647218776 0
 140/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/domhandler/lib/index.js1727339623205104034 0
 149/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/esm/_ts_metadata.js1727339624349879825 0
 205/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/lib/pseudo-selectors/filters.d.ts.map1727339626607482683 0
@@ -2677,7 +2675,6 @@
 149/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/packager-js/src/index.js1727339625456677983 0
 178/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/csso/node_modules/css-tree/cjs/syntax/node/MediaQueryList.cjs1727339625999582714 0
 171/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest_remap.c1727339623566031975 0
-143/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features1727339623941956922 1
 152/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/_/_array_like_to_array1727339624174912575 1
 160/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/web-animation.js1727339623937957720 0
 129/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/rust1727339649139540822 1
@@ -2852,6 +2849,8 @@
 173/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/csso/node_modules/css-tree/cjs/tokenizer/TokenStream.cjs1727339626059572823 0
 114/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/.gitignore1727340074673323514 0
 148/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/lmdb/util/set-optional-deps.cjs1727339623596025987 0
+179/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/_/_class_static_private_field_update/package.json1727339624194908832 0
+159/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/font-kerning.js1727339623802984667 0
 158/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/input-event.js1727339623813982471 0
 136/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/color-name/index.js1727339623826979876 0
 151/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers/cjs/_create_class.cjs1727339624291890679 0
@@ -2962,7 +2961,7 @@
 145/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/csso/lib/restructure/prepare1727339623840977082 1
 188/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/removeScriptElement.js1727339626439510317 0
 151/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/zstd.js1727339623942956722 0
-131/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/icon-work.e1b1a15f.svg1727348290474654329 0
+131/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/icon-work.e1b1a15f.svg1727348953644218735 0
 157/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/abortcontroller-polyfill/src/polyfill.js1727339624556841087 0
 167/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/high-resolution-time.js1727339623808983469 0
 164/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/core/test/fixtures/config-node-pipeline1727339625777621664 1
@@ -3539,7 +3538,7 @@
 148/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/runtime-browser-hmr/src1727339625009756409 1
 162/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/promise-finally.js1727339623867971692 0
 148/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/regions/AW.js1727339623652014808 0
-127/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/index.4a508c1d.css1727348290485654501 0
+127/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/index.4a508c1d.css1727348953645218748 0
 166/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/transformer-babel/lib/BabelTransformer.js1727339624930771096 0
 163/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/css-select/node_modules/domutils/lib/legacy.js1727339625920596575 0
 174/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/runtime-js/lib/helpers/browser/prefetch-loader.js1727339625017755005 0
@@ -3616,6 +3615,9 @@
 129/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@swc/helpers1727339624356878515 1
 147/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/sass/types/value/function.d.ts1727339853037312770 0
 141/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/packager-svg/lib1727339625318702195 1
+156/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/css-tree/cjs/syntax/node/Identifier.cjs1727339623527039760 0
+186/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/removeXMLProcInst.js1727339626444509495 0
+193/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/removeElementsByAttr.js1727339626450508508 0
 182/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/removeViewBox.js1727339626443509659 0
 146/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/css-tree/cjs/parser/index.cjs1727339623537037764 0
 159/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/caniuse-lite/data/features/transforms2d.js1727339623895966103 0
@@ -4997,7 +4999,7 @@
 142/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/core/src/types.js1727339625951591136 0
 145/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/abortcontroller-polyfill/src1727339624556841087 1
 151/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/core/src/ReporterRunner.js1727339625895600961 0
-149/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/time-tracking-dashboard-main.59712999.js1727348290481654438 0
+149/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/dist/time-tracking-dashboard-main.59712999.js1727348953628218517 0
 148/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/package-manager/LICENSE1727339625428682895 0
 148/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/@parcel/core/src/BundleGraph.js1727339625825613242 0
 139/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/css-tree/lib/generator1727339623718001634 1
@@ -6001,4 +6003,3 @@
 152/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/css-select/lib/esm/pseudo-selectors1727339623509043353 1
 165/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/css-select/lib/esm/pseudo-selectors/index.js.map1727339623468051537 0
 163/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/css-select/lib/esm/pseudo-selectors/filters.js1727339623277089663 0
-167/home/shpokas/Programming/Personal_bigger_projects/time-tracking-dashboard/time-tracking-dashboard-main/node_modules/css-select/lib/esm/pseudo-selectors/index.d.ts.map1727339623461052934 0
